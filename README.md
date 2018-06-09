@@ -15,7 +15,8 @@ AI比赛相关
 * https://dc.cloud.alipay.com/index#/home
 * https://tianchi.aliyun.com/
 * https://www.tinymind.cn/
-* https://challenger.ai/competitions
+* 京东：http://jddjr.jd.com/
+
 * [*AI*开发者*大赛* - 讯飞开放平台](http://challenge.xfyun.cn/)
 * [*AI* Challenger - 全球*AI*挑战赛](https://challenger.ai/)
 * [DF,CCF指定专业大数据*竞赛*平台](http://www.datafountain.cn/)
