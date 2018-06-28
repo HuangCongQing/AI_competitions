@@ -23,7 +23,7 @@ AI比赛相关
 * [数愿大数据*人工智能竞赛*平台](http://www.baidu.com/link?url=2RYTEQqr9ErSZvnf-ilxaDxf6SqrXCupMqXzHXSVVEuVtIzjin_tyZqtONtoeSRV)
 http://www.chinaopen.ai/
 
-
+* 腾讯云竞赛平台:https://cloud.tencent.com/developer/contests
 
 ### Studys
 
