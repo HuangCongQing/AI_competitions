@@ -4,12 +4,12 @@ AI比赛相关
 ### Competitions Websites
 
 
-#### 国外
+#### 国外 overseas
 
 * [*kaggle*数据科学竞赛 - Competitions | *Kaggle*](https://www.kaggle.com/competitions)
 
 
-#### 国内
+#### 国内（domestic inland ）
 
 * http://www.datafountain.cn/
 * https://dc.cloud.alipay.com/index#/home
