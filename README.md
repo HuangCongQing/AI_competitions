@@ -29,10 +29,19 @@ http://www.chinaopen.ai/
 
 * ATEC蚂蚁开发者大会： https://dc.cloud.alipay.com/index#/home
 
+* baidu点石： http://dianshi.baidu.com/gemstone/home
+
 ### Studys
 
 [比xgboost强大的LightGBM:调参指南(带贝叶斯*优化*代码) - CSDN博客](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79876825)
  [主流机器学习模型模板代码+经验分享[xgb, lgb, Keras, LR]](https://blog.csdn.net/leyounger/article/details/78667538)
+
+
+###  AI_competitions_code
+
+* 马上消费金融挑战者大赛-违约用户风险预测--第三名方案:[chizhu](https://github.com/chizhu)/**[AI_Risk](https://github.com/chizhu/AI_Risk)**
+* 第一届腾讯社交广告高校算法大赛(全国14名): [freelzy / Tencent_Social_Ads](https://github.com/freelzy/Tencent_Social_Ads)
+
 
 
 ### Issues
