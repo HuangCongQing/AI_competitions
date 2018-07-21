@@ -31,6 +31,7 @@ http://www.chinaopen.ai/
 
 * baidu点石： http://dianshi.baidu.com/gemstone/home
 
+* [数据竞赛平台 - *biendata*](https://www.biendata.com/)
 ### Studys
 
 * [比xgboost强大的LightGBM:调参指南(带贝叶斯*优化*代码) - CSDN博客](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79876825)
