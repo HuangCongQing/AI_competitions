@@ -32,6 +32,11 @@ http://www.chinaopen.ai/
 * baidu点石： http://dianshi.baidu.com/gemstone/home
 
 * [数据竞赛平台 - *biendata*](https://www.biendata.com/)
+
+### 平台
+
+* 珠算（http://zhusuan.readthedocs.io），它提供了一个Python编程库，能够便捷地实现贝叶斯深度学习的建模和推理。
+
 ### Studys
 
 * [比xgboost强大的LightGBM:调参指南(带贝叶斯*优化*代码) - CSDN博客](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79876825)
