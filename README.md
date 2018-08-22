@@ -35,7 +35,7 @@ http://www.chinaopen.ai/
 
 ### 平台
 
-* 珠算（http://zhusuan.readthedocs.io），它提供了一个Python编程库，能够便捷地实现贝叶斯深度学习的建模和推理。
+* [珠算](http://zhusuan.readthedocs.io)，它提供了一个Python编程库，能够便捷地实现贝叶斯深度学习的建模和推理。
 
 ### Studys
 
