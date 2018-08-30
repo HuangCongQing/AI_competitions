@@ -39,6 +39,12 @@ http://www.chinaopen.ai/
 
 * [科赛- *Kesci*.com](https://www.kesci.com/)
 科赛(Kesci.com)是聚合数据人才和行业问题的在线社区。科赛打造的 K-Lab 在线数据分析协作平台,为数据工作者的学习和工作带来全新的体验。
+* [
+人工智能竞赛平台 Biendata](https://www.biendata.com/)
+
+### 平台
+
+* [珠算](http://zhusuan.readthedocs.io)，它提供了一个Python编程库，能够便捷地实现贝叶斯深度学习的建模和推理。
 
 ### Studys
 
