@@ -9,7 +9,7 @@ AI比赛相关
 >随着近几年人工智能和大数据的快速发展和应用，使得相应的工智能&大数据相关比赛比赛近几年火热了起来，下面就我知道到的人工智能&大数据相关比赛，为大家简要说下，感兴趣的可以参加一些比赛，锻炼一下自己，也能知道一些前沿的技术，说不定还能拿些奖金呢？哈哈
 ### 国外 overseas
 
-#####1.  [*kaggle*数据科学竞赛 - Competitions | *Kaggle*](https://www.kaggle.com/competitions)
+##### 1.  [*kaggle*数据科学竞赛 - Competitions | *Kaggle*](https://www.kaggle.com/competitions)
 
 
 Kaggle号称是全球最大的数据科学家汇聚的平台，高手云集，同时对萌新也很友好。
