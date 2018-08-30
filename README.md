@@ -11,10 +11,9 @@ AI比赛相关
 
 #### 国内（domestic inland ）
 
-* http://www.datafountain.cn/
-* https://dc.cloud.alipay.com/index#/home
-* https://tianchi.aliyun.com/
-* https://www.tinymind.cn/
+* datafountain：http://www.datafountain.cn/
+* 天池大赛：https://tianchi.aliyun.com/
+* tinymind：https://www.tinymind.cn/
 * 京东：http://jddjr.jd.com/
 
 * [*AI*开发者*大赛* - 讯飞开放平台](http://challenge.xfyun.cn/)
