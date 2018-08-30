@@ -26,7 +26,7 @@ Titanic（预测生存：一种二元分类问题）：https://www.kaggle.com/c/
 
 
 
-#####2.  [阿里云天池大赛](https://tianchi.aliyun.com/)
+##### 2.  [阿里云天池大赛](https://tianchi.aliyun.com/)
 
 2015年3月23日，阿里云计算宣布启动新一赛季的天池大数据竞赛，到目前为止，已经加入了很多，比如**算法大赛**，程序设计大赛，为新手准备的**入门赛**，还有可视化大赛，千里马大赛，创新应用大赛。门类相对来说非常齐全。
 而且一般比赛持续周期很长，大家可以择机参加。
@@ -35,11 +35,11 @@ Titanic（预测生存：一种二元分类问题）：https://www.kaggle.com/c/
 
 
 
-#####3.  [DF,CCF指定专业大数据*竞赛*平台](http://www.datafountain.cn/)
+##### 3.  [DF,CCF指定专业大数据*竞赛*平台](http://www.datafountain.cn/)
 
 DF(DataFountain)的目标是构建中国最有影响力和权威度的数据科学与大数据分析处理竞赛平台。大赛的奖池规模很大，而且备考中国计算机学会这种国家学会，和很多优秀企业开办比赛，平台竞赛数量质量越来越高，CCF每年的大赛都是DF组织的，影响力挺大的，平台参与人数也挺多。
 
-#####4.[*AI* Challenger - 全球*AI*挑战赛](https://challenger.ai/)
+##### 4.[*AI* Challenger - 全球*AI*挑战赛](https://challenger.ai/)
 
 “AIChallenger全球AI挑战赛”。是由创新工场、搜狗和今日头条联合宣布三方携手发起的。
 AI Challenger 全球AI挑战赛”是面向全球人工智能人才的开源数据集和编程竞赛平台，致力于满足AI人才成长对高质量丰富数据集的需求，推动AI在科研与商业领域结合来解决真实世界的问题。
@@ -48,7 +48,7 @@ AI Challenger 全球AI挑战赛”是面向全球人工智能人才的开源数�
 
 
 
- ### 5. [数据竞赛平台 - *biendata*](https://biendata.com/)
+ ##### 5. [数据竞赛平台 - *biendata*](https://biendata.com/)
 
 
 Biendata.com是一个人工智能竞赛学习平台。用户可通过该平台报名并参加人工智能领域各类赛事。
@@ -57,14 +57,14 @@ Biendata.com是一个人工智能竞赛学习平台。用户可通过该平台�
 中国人工智能学会 & 字节跳动 办的为字节跳动海外产品文章自动生成标题，感觉还是挺有意思的。
 
 
-### 6.  [科赛- *Kesci*.com](https://www.kesci.com/)
+##### 6.  [科赛- *Kesci*.com](https://www.kesci.com/)
 
 
 科赛(Kesci.com)是聚合数据人才和行业问题的在线社区。科赛打造的 K-Lab 在线数据分析协作平台,为数据工作者的学习和工作带来全新的体验。
 比赛有简单，有难，有些有奖金，有些没有，可能知名度没有前几个高
 
 
-### 7. [*数愿*大数据AI竞赛平台](http://www.datadreams.org/#/raceList)
+##### 7. [*数愿*大数据AI竞赛平台](http://www.datadreams.org/#/raceList)
 
 
 致力于打造一流高度专业化大数据人工智能竞赛,挖掘优质人才和数据价值,推动项目商业化落地,助力创业者实现梦想
