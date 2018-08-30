@@ -1,6 +1,8 @@
 # AI_competitions
 AI比赛相关
 
+@ [ChungKing](https://github.com/HuangCongQing/AI_competitions)，若fork或star请注明来源
+
 ### Competitions Websites
 
 
