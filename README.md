@@ -32,6 +32,14 @@ http://www.chinaopen.ai/
 * baidu点石： http://dianshi.baidu.com/gemstone/home
 
 * [数据竞赛平台 - *biendata*](https://www.biendata.com/)
+
+* [DataCastle--主要和大数据相关](http://www.pkbigdata.com/)
+
+* [泰迪杯-泰迪公司搞的比赛](http://www.tipdm.org/bdrace/jingsa/)
+
+* [科赛- *Kesci*.com](https://www.kesci.com/)
+科赛(Kesci.com)是聚合数据人才和行业问题的在线社区。科赛打造的 K-Lab 在线数据分析协作平台,为数据工作者的学习和工作带来全新的体验。
+
 ### Studys
 
 * [比xgboost强大的LightGBM:调参指南(带贝叶斯*优化*代码) - CSDN博客](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79876825)
