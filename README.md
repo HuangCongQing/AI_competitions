@@ -114,6 +114,7 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * 马上消费金融挑战者大赛-违约用户风险预测--第三名方案:[chizhu](https://github.com/chizhu)/**[AI_Risk](https://github.com/chizhu/AI_Risk)**
 * 第一届腾讯社交广告高校算法大赛(全国14名): [freelzy / Tencent_Social_Ads](https://github.com/freelzy/Tencent_Social_Ads)
 
+* 2017-CCF-BDCI-让AI当法官(初赛):[ShawnyXiao](https://github.com/ShawnyXiao)/[2017-CCF-BDCI-AIJudge](https://github.com/ShawnyXiao/2017-CCF-BDCI-AIJudge)
 
 
 ### Issues
