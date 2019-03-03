@@ -2,6 +2,7 @@
 AI比赛相关
 
 @ [ChungKing](https://github.com/HuangCongQing/AI_competitions)，若fork或star请注明来源
+首发于公众号：重庆小哥稳
 
 ### Competitions Websites
 
@@ -10,6 +11,10 @@ AI比赛相关
 
 >建议:现在AI比赛非常多，如果想学习的话，最好有针对性地选择一项比赛，深钻下去，很多比赛也会建群讨论交流，能学到很多，而且有些还会有大佬直播大一，赛后交流分享。对了，还有最好能组个队，有队友互相学习，会比单打独斗事半功倍。
 欢迎交流(*￣︶￣)
+
+### 公开数据集
+* https://www.datafountain.cn/dataSets
+
 
 ### 国外 overseas
 
