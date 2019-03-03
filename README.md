@@ -115,6 +115,16 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * [比xgboost强大的LightGBM:调参指南(带贝叶斯*优化*代码) - CSDN博客](https://blog.csdn.net/meyh0x5vDTk48P2/article/details/79876825)
 * [主流机器学习模型模板代码+经验分享[xgb, lgb, Keras, LR]](https://blog.csdn.net/leyounger/article/details/78667538)
 
+深度学习中经常看到epoch、iteration和batchsize，下面按照自己的理解说说这三个区别：
+
+（1）batchsize：批大小。在深度学习中，一般采用SGD训练，即每次训练在训练集中取batchsize个样本训练；
+（2）iteration：1个iteration等于使用batchsize个样本训练一次；
+（3）epoch：1个epoch等于使用训练集中的全部样本训练一次；
+
+举个例子，训练集有1000个样本，batchsize=10，那么：
+训练完整个样本集需要：
+100次iteration，1次epoch。
+
 
 ###  AI_competitions_code
 
