@@ -133,6 +133,7 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 
 * 2017-CCF-BDCI-让AI当法官(初赛):[ShawnyXiao](https://github.com/ShawnyXiao)/[2017-CCF-BDCI-AIJudge](https://github.com/ShawnyXiao/2017-CCF-BDCI-AIJudge)
 
+* 初赛Rank1 复赛Rank1 2018 CCF 大数据与计算智能大赛 供应链需求预测：[yuxiaowww](https://github.com/yuxiaowww)/**[BDCI-2018-Supply-Chain-Demand-Forecast](https://github.com/yuxiaowww/BDCI-2018-Supply-Chain-Demand-Forecast)**
 
 ### Issues
 
