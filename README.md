@@ -135,6 +135,10 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 
 * 初赛Rank1 复赛Rank1 2018 CCF 大数据与计算智能大赛 供应链需求预测：[yuxiaowww](https://github.com/yuxiaowww)/**[BDCI-2018-Supply-Chain-Demand-Forecast](https://github.com/yuxiaowww/BDCI-2018-Supply-Chain-Demand-Forecast)**
 
+* 招商银行信用卡中心 消费金融场景下的用户购买预测 rank1: [sunwantong](https://github.com/sunwantong)/**[China-Merchants-Bank-credit-card-Cente-User-purchase-forecast](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)**
+
+
+
 ### Issues
 
 
