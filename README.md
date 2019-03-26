@@ -14,8 +14,14 @@ AI比赛相关
 
 ### 公开数据集
 
-* https://www.datafountain.cn/dataSets
 
+* Google数据集搜索：https://toolbox.google.com/datasetsearch
+* Datahub，分享高质量数据集平台：https://datahub.io/
+* 用于上传和查找数据集的机器学习数据集存储库：https://www.webdoctx.com/www.mldata.org
+* datafountain收集数据集：https://www.datafountain.cn/dataSets
+* tinymind收集数据集：https://www.tinymind.cn/sites#group_22
+看到的一篇文章,里面有介绍很多数据集的：[世界上最有价值的不是石油而是数据(附数据资源下载链接)
+](https://mp.weixin.qq.com/s/Ao8SO9j2IPurl45Noy1dVw)
 
 
 ### 国外 overseas
