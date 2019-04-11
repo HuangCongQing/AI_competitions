@@ -107,6 +107,8 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * 爱奇艺AI竞赛平台：http://challenge.ai.iqiyi.com/
 * ATEC蚂蚁开发者大会： https://dc.cloud.alipay.com/index#/home
 * 泰迪杯-泰迪公司：http://www.tipdm.org/bdrace/jingsa/
+* 中兴捧月算法大赛：http://challenge.zte.net/index.php
+* 中国人工智能竞赛：https://ai.ixm.gov.cn/
 
 * [竞技乎--最近没什么动静](http://www.jinji.hu/)
 ### 平台
