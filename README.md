@@ -155,6 +155,10 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 ### Issues
 
 
+### Ranking
+
+* ICDAR2015 Incidental Scene Text竞赛的[文字检测](http://rrc.cvc.uab.es/?ch=4&com=evaluation&task=1)和[文字识别](http://rrc.cvc.uab.es/?ch=4&com=evaluation&task=3)以及[端到端（检测+识别）](http://rrc.cvc.uab.es/?ch=4&com=evaluation&task=4)算法的排行榜，里面的排名代表了目前最新的场景OCR技术，部分模型提供了相关论文和开源代码链接。
+
 ### License
 
 Copyright (c) [ChungKing](https://github.com/HuangCongQing/AI_competitions). All rights reserved.
