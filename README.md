@@ -118,9 +118,6 @@ Biendata.com是一个人工智能竞赛学习平台。用户可通过该平台�
 
 GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD 对抗样本攻防赛、数据追踪挑战赛、黑客屋挑战赛、机器特工挑战赛、PWN FOR FUN趣味挑战赛、基于漏洞和非基于漏洞挑战赛轮番上演
 
-### 比赛合集
-
-*  [收集一系列受欢迎的数据科学竞赛 - Python开发社区 | CTOLib码库](http://java.ctolib.com/iphysresearch-DataSciComp.html)
 
 
 
@@ -137,6 +134,16 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * 泰迪杯-泰迪公司：http://www.tipdm.org/bdrace/jingsa/
 
 * [竞技乎--最近没什么动静](http://www.jinji.hu/)
+
+### 其他比赛文章合集
+
+*  [收集一系列受欢迎的数据科学竞赛 - Python开发社区 | CTOLib码库](http://java.ctolib.com/iphysresearch-DataSciComp.html)
+
+*  [ Competition——AI：国内外人工智能比赛平台以及竞赛类型、竞赛题目 ...](https://blog.csdn.net/qq_41185868/article/details/83758440)
+
+
+
+
 ### 平台
 
 * [珠算](http://zhusuan.readthedocs.io)，它提供了一个Python编程库，能够便捷地实现贝叶斯深度学习的建模和推理。
