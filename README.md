@@ -7,6 +7,8 @@ AI比赛相关
 
 * **有什么比赛正在举行，欢迎大家提[issue](https://github.com/HuangCongQing/AI_competitions/issues)**
 
+* 2019-05-06 发现一个国外的人工智能/数据科学比赛整理平台，有各国比赛
+ [DataSciComp](https://iphysresearch.github.io/DataSciComp/)，
 
 ### Competitions Websites
 
@@ -165,6 +167,9 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * 初赛Rank1 复赛Rank1 2018 CCF 大数据与计算智能大赛 供应链需求预测：[yuxiaowww](https://github.com/yuxiaowww)/**[BDCI-2018-Supply-Chain-Demand-Forecast](https://github.com/yuxiaowww/BDCI-2018-Supply-Chain-Demand-Forecast)**
 
 * 招商银行信用卡中心 消费金融场景下的用户购买预测 rank1: [sunwantong](https://github.com/sunwantong)/**[China-Merchants-Bank-credit-card-Cente-User-purchase-forecast](https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast)**
+
+* 2018-CCF大数据与计算智能大赛-面向电信行业存量用户的智能套餐个性化匹配模型联通赛-复赛第二名解决方案:[PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2](https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2)
+
 
 
 
