@@ -44,6 +44,18 @@ Titanic（预测生存：一种二元分类问题）：https://www.kaggle.com/c/
 强烈建议你有时间两项都尝试一下，对入门学习是很有益处的！
 
 
+##### 2. ICME
+
+[http://www.icme2019.org/conf_challenges](http://www.icme2019.org/conf_challenges)
+
+[http://www.icme2018.org/conf_challenges](http://www.icme2018.org/conf_challenges)
+
+IEEE ICME(IEEE International Conference on Multimedia and Expo)是由IEEE Computer Society、Circuits and Systems Society、 Signal Processing Society以及Communications Society共同主办的计算机多媒体领域最重要的国际会议之一，至今(2019)已连续举办18届，涵盖文本分析、图形图像、视频、语音音频等多媒体数据的处理、传输、分析与应用等主题。
+
+
+
+
+
 ### 国内（domestic inland ）
 国内是看到了AI在未来的重要性，各个公司已经相应投资者纷纷开设了很多相关的比赛及平台，下面说下我所知道的。
 
