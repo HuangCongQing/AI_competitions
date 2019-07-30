@@ -124,6 +124,7 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 #### 其他公司比赛
 以上都是大家可能比较熟知的比赛平台，但也有一些公司自己举办的非常好的AI比赛平台。
 
+* 华为云大赛：https://developer.huaweicloud.com/competition/ai
 * 京东大赛：http://jddjr.jd.com/
 * CSDN- tinymind比赛：https://www.tinymind.cn/competitions
 * baidu点石： http://dianshi.baidu.com/gemstone/home
