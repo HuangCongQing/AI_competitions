@@ -183,6 +183,8 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 * 2018-CCF大数据与计算智能大赛-面向电信行业存量用户的智能套餐个性化匹配模型联通赛-复赛第二名解决方案:[PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2](https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2)
 
 
+* 2019年CCF大数据与计算智能大赛乘用车细分市场销量预测冠军解决方案
+：[cxq80803716/2019-CCF-BDCI-Car_sales](https://github.com/cxq80803716/2019-CCF-BDCI-Car_sales)
 
 
 ### Issues
