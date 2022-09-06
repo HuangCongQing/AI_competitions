@@ -1,8 +1,8 @@
 # AI_competitions
 AI比赛相关
 
-@ [ChungKing](https://github.com/HuangCongQing/AI_competitions)，若fork或star请注明来源
-首发于公众号：重庆小哥稳
+@ [双愚](https://github.com/HuangCongQing/AI_competitions)，若fork或star请注明来源
+首发于公众号：双愚
 
 
 * **有什么比赛正在举行，欢迎大家提[issue](https://github.com/HuangCongQing/AI_competitions/issues)**
