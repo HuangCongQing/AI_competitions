@@ -194,7 +194,7 @@ If you find this project useful in your research, please consider cite:
 ```
 @misc{ai_competitions2019,
     title={Summary of AI competitions at home and abroad},
-    author={Chongqing Huang},
+    author={Chongqing, Huang},
     howpublished = {\url{https://github.com/HuangCongQing/AI_competitions/}},
     year={2019}
 }
