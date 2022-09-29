@@ -187,6 +187,20 @@ GeekPwn2018嘉年华将于2018 年10月24日-25日在上海举行。届时CAAD �
 ：[cxq80803716/2019-CCF-BDCI-Car_sales](https://github.com/cxq80803716/2019-CCF-BDCI-Car_sales)
 
 
+### Citation 
+If you find this project useful in your research, please consider cite:
+
+
+```
+@misc{ai_competitions2019,
+    title={Summary of AI competitions at home and abroad},
+    author={Chongqing Huang},
+    howpublished = {\url{https://github.com/HuangCongQing/AI_competitions/}},
+    year={2019}
+}
+```
+
+
 ### Issues
 
 
