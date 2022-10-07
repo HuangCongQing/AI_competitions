@@ -8,7 +8,10 @@ AI比赛相关
 * **有什么比赛正在举行，欢迎大家提[issue](https://github.com/HuangCongQing/AI_competitions/issues)**
 
 * 2019-05-06 发现一个国外的人工智能/数据科学比赛整理平台，有各国比赛
- [DataSciComp](https://iphysresearch.github.io/DataSciComp/)，
+ [DataSciComp](https://iphysresearch.github.io/DataSciComp/)
+ 
+* 已发布在知乎[【综述】各类人工智能&大数据相关比赛
+](https://zhuanlan.zhihu.com/p/59652152)
 
 ### Competitions Websites
 
