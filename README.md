@@ -224,6 +224,6 @@ If you find this project useful in your research, please consider cite:
 
 ### License
 
-Copyright (c) [ChungKing](https://github.com/HuangCongQing/AI_competitions). All rights reserved.
+Copyright (c) [双愚](https://github.com/HuangCongQing/AI_competitions). All rights reserved.
 
 Licensed under the [MIT](./LICENSE) License.
